@@ -13,9 +13,13 @@
 
 ---
 
-## [0.0.0] - 2026-04-21 | 21h02 ~ 22h00
+## [0.0.0] - 2026-04-21 | 21h20 ~ 22h51
 
-#### Criação das entidades
+#### Criação das migrações iniciais
 
 - Criação das migrations iniciais com o flyway.
-- Criação das entidades de infraestrutura.
+
+---
+
+
+
