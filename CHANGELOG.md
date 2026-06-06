@@ -1,6 +1,7 @@
 # Registro de Mudanças e Atualizações do Projeto
 
 ##  [0.0.0] - 2026-04-21 | 14h00 ~ 15h23
+
 #### Setup Inicial do Projeto
 
 - Configuração do ambiente de desenvolvimento.
@@ -21,5 +22,8 @@
 
 ---
 
+## [0.0.0] - 2026-06-06 | 16h00 ~ 16h50
 
+### Criação das entidades de persistência
 
+- Entidades de persistência JPA de cada módulo.
